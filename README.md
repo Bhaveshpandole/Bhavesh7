@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bhavesh-pandole-9b4302326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanket karle" height="30" width="40" /></a>
-<a href="https://instagram.com/sanket_karle_713" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanket_karle_713" height="30" width="40" /></a>
+<a href="https://www.instagram.com/thebhaveshpandole?igsh=OHk2aHR4cW9xb2V1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanket_karle_713" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
